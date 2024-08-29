@@ -1,1 +1,1 @@
-# pull-reqiest-practica
+# pull-request-practica
